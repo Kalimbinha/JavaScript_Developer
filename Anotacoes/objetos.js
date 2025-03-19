@@ -1,4 +1,4 @@
-const fernando ={
+const fernando = {
     nome: "Fernando Barreto Silva",
     idade: 18,
     namorada: "Isadora",
