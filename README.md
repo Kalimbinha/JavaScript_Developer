@@ -1,4 +1,4 @@
-# JavaScript_Developer
+# 💛 JavaScript_Developer
 
 ## 📌 Sobre o Repositório
 Repositório dedicado ao desenvolvimento em JavaScript, contendo projetos, exercícios e exemplos para aprimorar habilidades como desenvolvedor JavaScript.
